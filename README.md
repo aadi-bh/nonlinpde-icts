@@ -11,5 +11,5 @@ Jupyter notebooks can be viewed online using [nbviewer](http://nbviewer.org) lin
     - Question 5: [Comparing the convergence of RK4 with `scipy`'s ODE solver][hw2-q5]
 
 [hw1-q2]:http://nbviewer.ipython.org/github/aadi-bh/nonlinpde-icts/blob/main/hw1/hw1-q2-FixedPoints.ipynb
-[hw2-q5]:http://nbviewer.ipython.org/github/aadi-bh/nonlinpde-icts/blob/main/hw1/hw2-q5-RK4Convergence.ipynb
-[hw2-q4]:http://nbviewer.ipython.org/github/aadi-bh/nonlinpde-icts/blob/main/hw1/hw2-q4-NewtonsFractal.ipynb
+[hw2-q5]:http://nbviewer.ipython.org/github/aadi-bh/nonlinpde-icts/blob/main/hw2/hw2-q5-RK4Convergence.ipynb
+[hw2-q4]:http://nbviewer.ipython.org/github/aadi-bh/nonlinpde-icts/blob/main/hw2/hw2-q4-NewtonsFractal.ipynb
